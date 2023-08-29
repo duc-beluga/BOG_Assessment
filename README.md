@@ -1,3 +1,5 @@
+# My GIF
+![](https://github.com/duc-beluga/bog-fall23-dev-assessment/blob/main/BitsOfGood.gif)
 # Introduction 
 Hello, thank you for showing your interest in Bits of Good! This semester, we are focusing our recruitment on the practical skills of developers through this assessment! We hope you enjoy the task and if you have any questions or if any part is ambiguous, please send us an email at gt.engineering@hack4impact.org or file an issue on GitHub.
 
